@@ -1,1 +1,1 @@
-fix predict with class filter
+Add type hinting to explorer.py (#7388)
